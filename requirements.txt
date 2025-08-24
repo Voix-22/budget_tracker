@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+prophet 
+sqlite3
+pystan==3.4.0
